@@ -3,11 +3,11 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, filte
 from random import choice
 import logging
 
-CHANNEL_USERNAME = '@TIRANGAAMANOP'  # Replace with your channel's username
-CHANNEL_LINK = 'https://t.me/TIRANGAAMANOP'  # Replace with your channel's invite link
+CHANNEL_USERNAME = '@TIRANGAANONYMOUS'  # Replace with your channel's username
+CHANNEL_LINK = 'https://t.me/+_IuaOQeKX6E2ZDhl'  # Replace with your channel's invite link
 
 can_show = False
-admins = ['TRGAmanOP']
+admins = ['anonymous_o_1']
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
