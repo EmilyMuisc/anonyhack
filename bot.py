@@ -150,7 +150,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
         next_markup = ReplyKeyboardMarkup([next_prediction,back_press],resize_keyboard=True,one_time_keyboard=True)
 
 
-        pred = f"✅Prediction Result:\n👨‍💻Period No: {text}\n⚡Result: {result} \n\n Powered by 😈 : 𓆩 𝚃 ʀ 𝙶 𓆪『 𝘼𝙢𝙖𝙣𝙊𝙋 💥🥀』⃝🇮🇳"
+        pred = f"✅Prediction Result:\n👨‍💻Period No: {text}\n⚡Result: {result} \n\n Powered by 😈 : ×°Ⱥղօղվʍօմʂ°×"
 
         can_show = False
 
